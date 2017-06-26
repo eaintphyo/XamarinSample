@@ -13,20 +13,23 @@
         <Button Text="1"
                 VerticalOptions="CenterAndExpand"
                 HorizontalOptions="Center"
-                Clicked="ButtonClicked"> 
+                Clicked="ButtonClicked"
+                BackgroundColor="LightPink"> 
                 
         </Button>
 
         <Button Text="2"
                 VerticalOptions="CenterAndExpand"
                 HorizontalOptions="Center"
-                Clicked="ButtonClicked">
+                Clicked="ButtonClicked"
+                BackgroundColor="Beige">
         </Button>
 
         <Button Text="3"
                 VerticalOptions="CenterAndExpand"
                 HorizontalOptions="Center"
-                Clicked="ButtonClicked">
+                Clicked="ButtonClicked"
+                BackgroundColor="CadetBlue">
         </Button>
 
 
